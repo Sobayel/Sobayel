@@ -27,7 +27,7 @@ Assalamu Alaikum...! I am Sobayel, a passionate developer with a keen interest i
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Sobayel&theme=darcula&hide_border=true&background=FFFFFF00">
 </p> 
 
-### Sobayel Hossain
+
 <table>
 <thead>
 <tr>
