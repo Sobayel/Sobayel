@@ -21,10 +21,26 @@ Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a 
 #### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobayel&show_icons=true&count_private=true)  
 
-<a href="https://www.Sobayel.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sobayel_title=true_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 #### Github Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sobayel)  
+
+<table>
+<caption>Sobayel Hossain</caption>
+<thead>
+<tr>
+<th colspan="2">Quick Info</th>
+</tr>
+</thead>
+<tbody>
+<tr><th scope='row'>Name</th><td>Md. Sobayel Hossain</td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2000-12-29 08:00">29 December, 2000</time></td></tr>
+<tr><th scope='row'>Education</th><td>B.Sc Engineering 5th Semester Running</td></tr>
+<tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
+<tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
+</tbody>
+</table>
 
 #### Additional Information
 - 🔭 I’m currently working on 🚀Web Development projects. 
