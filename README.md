@@ -1,7 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D4E16AQE8b8rI3UYgqA/profile-displaybackgroundimage-shrink_350_1400/0/1719873224037?e=1725494400&v=beta&t=szOT7w3Sxq5o-PjY_M7_cFWt22cQn6peljfS6OiOr-o)
 
 ## Hi 👋, I'm Sobayel
-#### Web Developer
+#### My profession is Web Developer
 
 #### About me:
 Assalamu Alaikum...! I am Sobayel, a passionate developer with a keen interest in web development. Always enjoy solving project construction problems, continuous learning, always believe in improving my skills and knowledge. Always try to make sure the client is satisfied and understands everything. My dream is to become a good web developer.
@@ -40,7 +40,7 @@ Assalamu Alaikum...! I am Sobayel, a passionate developer with a keen interest i
 <tr><th scope='row'>Education</th><td>B.Sc in Engineering of CSE</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, React, Node.js</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML5, CSS3, JavaScript, React, Node.js, MongoDb and Tailwind_CSS</td></tr>
 </tbody>
 </table>
 
