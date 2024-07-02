@@ -22,11 +22,11 @@ Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobayel&show_icons=true&count_private=true)  
 
 
-#### Github Streak Stats
+#### Github Streak Stats:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sobayel)  
 
+### Sobayel Hossain
 <table>
-<caption>Sobayel Hossain</caption>
 <thead>
 <tr>
 <th colspan="2">Quick Info</th>
@@ -42,7 +42,7 @@ Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a 
 </tbody>
 </table>
 
-#### Additional Information
+#### Additional Information:
 - 🔭 I’m currently working on 🚀Web Development projects. 
 - 🌱 I’m currently learning React ⚛️ and JavaScript 💻 
 - 👯 I’m looking to collaborate on 🤝Open source projects, web development, React ⚛️, and JavaScript solutions. 
