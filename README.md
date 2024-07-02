@@ -7,8 +7,8 @@
 Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a keen interest in Web Development.   I enjoy solving project construction problems.   I believe in constantly learning and always improving my skills and knowledge.  I always try to make sure that the client is satisfied and understands everything.  My dream is to become a good Web Developer.
 
 #### Skills:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
@@ -20,6 +20,8 @@ Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a 
 
 #### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobayel&show_icons=true&count_private=true)  
+
+<a href="https://www.Sobayel.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sobayel&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 #### Github Streak Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sobayel)  
