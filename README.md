@@ -4,7 +4,7 @@
 #### Web Developer
 
 #### About me:
-Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a keen interest in Web Development.   I enjoy solving project construction problems.   I believe in constantly learning and always improving my skills and knowledge.  I always try to make sure that the client is satisfied and understands everything.  My dream is to become a good Web Developer.
+Assalamualaikum everyone..!  I am Sobayel, a passionate developer with a keen interest in Web Development.   I enjoy solving project construction problems.   I believe in constantly learning and always improving my skills and knowledge.  I always try to make sure that the client is satisfied and understands everything.  My dream is to become a good Web Developer.
 
 #### Skills:
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
