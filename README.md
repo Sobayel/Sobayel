@@ -35,7 +35,7 @@ Assalamualaikum everyone..!  I am Sobayel, a passionate developer with a keen in
 <tbody>
 <tr><th scope='row'>Name</th><td>Md. Sobayel Hossain</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2000-12-29 08:00">29 December, 2000</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.Sc Engineering 5th Semester Running</td></tr>
+<tr><th scope='row'>Education</th><td>B.Sc in Engineering 5th Semester Running</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
