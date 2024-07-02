@@ -21,11 +21,11 @@ Hello..! Assalamualaikum everyone,  I am Sobayel, a passionate developer with a 
 #### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobayel&show_icons=true&count_private=true) 
 
-
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/Sobayel/Sobayel/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/Sobayel/Sobayel/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/Sobayel/Sobayel/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Sobayel&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobayel&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Sobayel&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
 
 
 #### Github Streak Stats:
