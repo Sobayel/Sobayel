@@ -4,14 +4,16 @@
 #### Web Developer
 
 #### About me:
-Assalamualaikum everyone..!  I am Sobayel, a passionate developer with a keen interest in Web Development.   I enjoy solving project construction problems.   I believe in constantly learning and always improving my skills and knowledge.  I always try to make sure that the client is satisfied and understands everything.  My dream is to become a good Web Developer.
+Assalamu Alaikum...! I am Sobayel, a passionate developer with a keen interest in web development. Always enjoy solving project construction problems, continuous learning, always believe in improving my skills and knowledge. Always try to make sure the client is satisfied and understands everything. My dream is to become a good web developer.
 
 #### Skills:
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)
 
 
 
@@ -35,10 +37,10 @@ Assalamualaikum everyone..!  I am Sobayel, a passionate developer with a keen in
 <tbody>
 <tr><th scope='row'>Name</th><td>Md. Sobayel Hossain</td></tr>
 <tr><th scope='row'>Born</th><td><time datetime="2000-12-29 08:00">29 December, 2000</time></td></tr>
-<tr><th scope='row'>Education</th><td>B.Sc in Engineering 5th Semester Running</td></tr>
+<tr><th scope='row'>Education</th><td>B.Sc in Engineering of CSE</td></tr>
 <tr><th scope='row'>Nationality</th><td>Bangladeshi</td></tr>
 <tr><th scope='row'>Occupation</th><td>Web Developer</td></tr>
-<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript</td></tr>
+<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, React, Node.js</td></tr>
 </tbody>
 </table>
 
