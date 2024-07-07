@@ -1,4 +1,5 @@
-![](https://media.licdn.com/dms/image/D4E16AQHn0SUy8H8PLg/profile-displaybackgroundimage-shrink_350_1400/0/1719924707029?e=1725494400&v=beta&t=ZeiFrU5IX8cy4CiNWspZoAsUQ1un8637FRDH1hfX_LE)
+![](https://media.licdn.com/dms/image/D4E16AQF0ZNkd94uS1w/profile-displaybackgroundimage-shrink_350_1400/0/1720343700157?e=1726099200&v=beta&t=uqQuDuiJ5ow0aWCPnJBtVcIpOKPunBZXM0w7P1whR7M)
+
 ## Hi 👋, I'm Sobayel
 #### My profession is Web Developer
 
